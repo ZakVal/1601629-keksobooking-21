@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Валерия](https://up.htmlacademy.ru/javascript/21/user/1601629).
-* Наставник: `Неизвестно`.
+* Наставник: (https://htmlacademy.ru/profile/id17860).
 
 ---
 
